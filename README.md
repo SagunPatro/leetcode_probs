@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SagunPatro/leetcode_probs/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
