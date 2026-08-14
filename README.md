@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/SagunPatro/leetcode_probs/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/SagunPatro/leetcode_probs/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/SagunPatro/leetcode_probs/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
