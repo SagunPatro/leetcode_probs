@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SagunPatro/leetcode_probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagunPatro/leetcode_probs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
 | ------- |
@@ -84,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0064-minimum-path-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0930-binary-subarrays-with-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagunPatro/leetcode_probs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
