@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SagunPatro/leetcode_probs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/SagunPatro/leetcode_probs/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SagunPatro/leetcode_probs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SagunPatro/leetcode_probs/tree/master/0198-house-robber) |
