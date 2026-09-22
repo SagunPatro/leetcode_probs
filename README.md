@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SagunPatro/leetcode_probs/tree/master/0295-find-median-from-data-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SagunPatro/leetcode_probs/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SagunPatro/leetcode_probs/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SagunPatro/leetcode_probs/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -135,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
