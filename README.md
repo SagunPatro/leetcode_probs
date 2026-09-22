@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SagunPatro/leetcode_probs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/SagunPatro/leetcode_probs/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SagunPatro/leetcode_probs/tree/master/0198-house-robber) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SagunPatro/leetcode_probs/tree/master/0041-first-missing-positive) |
 | [0930-binary-subarrays-with-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
