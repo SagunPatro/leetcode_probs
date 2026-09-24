@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
 | [0930-binary-subarrays-with-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/SagunPatro/leetcode_probs/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SagunPatro/leetcode_probs/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SagunPatro/leetcode_probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagunPatro/leetcode_probs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SagunPatro/leetcode_probs/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SagunPatro/leetcode_probs/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SagunPatro/leetcode_probs/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SagunPatro/leetcode_probs/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SagunPatro/leetcode_probs/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
@@ -132,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/SagunPatro/leetcode_probs/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SagunPatro/leetcode_probs/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/SagunPatro/leetcode_probs/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
