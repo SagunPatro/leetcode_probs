@@ -32,6 +32,7 @@ class Solution {
                 else if(grid[i][j] == 1) {
 
                     fresh++;
+                    visited[i][j] = 0;
                 }
 
                 else {
@@ -81,7 +82,7 @@ class Solution {
                     // This fresh orange becomes rotten
                     visited[nrow][ncol] = 2;
 
-                    // It becomes rotten after t + 1 minutes
+                    // It becomes rotten after t + 1 time units
                     q.add(new int[]{nrow, ncol, t + 1});
 
                     count++;
