@@ -66,16 +66,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SagunPatro/leetcode_probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SagunPatro/leetcode_probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SagunPatro/leetcode_probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Dynamic Programming
