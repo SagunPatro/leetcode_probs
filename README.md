@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SagunPatro/leetcode_probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SagunPatro/leetcode_probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/SagunPatro/leetcode_probs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0064-minimum-path-sum) |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
