@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SagunPatro/leetcode_probs/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/SagunPatro/leetcode_probs/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/SagunPatro/leetcode_probs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
 | [0930-binary-subarrays-with-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0930-binary-subarrays-with-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SagunPatro/leetcode_probs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/SagunPatro/leetcode_probs/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SagunPatro/leetcode_probs/tree/master/0678-valid-parenthesis-string) |
 ## Math
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/SagunPatro/leetcode_probs/tree/master/0678-valid-parenthesis-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
