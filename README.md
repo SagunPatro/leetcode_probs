@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SagunPatro/leetcode_probs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/SagunPatro/leetcode_probs/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SagunPatro/leetcode_probs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SagunPatro/leetcode_probs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/SagunPatro/leetcode_probs/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SagunPatro/leetcode_probs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
