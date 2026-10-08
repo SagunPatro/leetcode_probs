@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SagunPatro/leetcode_probs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SagunPatro/leetcode_probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1328-break-a-palindrome](https://github.com/SagunPatro/leetcode_probs/tree/master/1328-break-a-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/SagunPatro/leetcode_probs/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SagunPatro/leetcode_probs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1328-break-a-palindrome](https://github.com/SagunPatro/leetcode_probs/tree/master/1328-break-a-palindrome) |
 ## Knapsack Problem
 |  |
 | ------- |
