@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SagunPatro/leetcode_probs/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SagunPatro/leetcode_probs/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SagunPatro/leetcode_probs/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SagunPatro/leetcode_probs/tree/master/0295-find-median-from-data-stream) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SagunPatro/leetcode_probs/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Data Stream
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SagunPatro/leetcode_probs/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SagunPatro/leetcode_probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagunPatro/leetcode_probs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SagunPatro/leetcode_probs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagunPatro/leetcode_probs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SagunPatro/leetcode_probs/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SagunPatro/leetcode_probs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1328-break-a-palindrome](https://github.com/SagunPatro/leetcode_probs/tree/master/1328-break-a-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SagunPatro/leetcode_probs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SagunPatro/leetcode_probs/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Knapsack Problem
 |  |
 | ------- |
