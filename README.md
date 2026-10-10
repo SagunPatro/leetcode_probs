@@ -256,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SagunPatro/leetcode_probs/tree/master/0207-course-schedule) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/SagunPatro/leetcode_probs/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
