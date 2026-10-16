@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SagunPatro/leetcode_probs/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/SagunPatro/leetcode_probs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/SagunPatro/leetcode_probs/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/SagunPatro/leetcode_probs/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/SagunPatro/leetcode_probs/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SagunPatro/leetcode_probs/tree/master/0200-number-of-islands) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SagunPatro/leetcode_probs/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SagunPatro/leetcode_probs/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SagunPatro/leetcode_probs/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/SagunPatro/leetcode_probs/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/SagunPatro/leetcode_probs/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
