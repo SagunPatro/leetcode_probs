@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SagunPatro/leetcode_probs/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SagunPatro/leetcode_probs/tree/master/0295-find-median-from-data-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/SagunPatro/leetcode_probs/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SagunPatro/leetcode_probs/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Data Stream
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SagunPatro/leetcode_probs/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/SagunPatro/leetcode_probs/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SagunPatro/leetcode_probs/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/SagunPatro/leetcode_probs/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SagunPatro/leetcode_probs/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SagunPatro/leetcode_probs/tree/master/1020-number-of-enclaves) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/SagunPatro/leetcode_probs/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/SagunPatro/leetcode_probs/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/SagunPatro/leetcode_probs/tree/master/1631-path-with-minimum-effort) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SagunPatro/leetcode_probs/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SagunPatro/leetcode_probs/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tree
 |  |
 | ------- |
@@ -303,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/SagunPatro/leetcode_probs/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
