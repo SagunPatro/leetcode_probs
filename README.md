@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SagunPatro/leetcode_probs/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SagunPatro/leetcode_probs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SagunPatro/leetcode_probs/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/SagunPatro/leetcode_probs/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SagunPatro/leetcode_probs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SagunPatro/leetcode_probs/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -133,15 +134,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SagunPatro/leetcode_probs/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/SagunPatro/leetcode_probs/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SagunPatro/leetcode_probs/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SagunPatro/leetcode_probs/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SagunPatro/leetcode_probs/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SagunPatro/leetcode_probs/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SagunPatro/leetcode_probs/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/SagunPatro/leetcode_probs/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -241,17 +246,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -319,4 +327,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
