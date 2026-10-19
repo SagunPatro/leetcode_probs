@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/SagunPatro/leetcode_probs/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2235-add-two-integers](https://github.com/SagunPatro/leetcode_probs/tree/master/2235-add-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SagunPatro/leetcode_probs/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Combinatorics
 |  |
