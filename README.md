@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SagunPatro/leetcode_probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1328-break-a-palindrome](https://github.com/SagunPatro/leetcode_probs/tree/master/1328-break-a-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SagunPatro/leetcode_probs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/SagunPatro/leetcode_probs/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
