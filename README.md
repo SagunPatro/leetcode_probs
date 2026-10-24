@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SagunPatro/leetcode_probs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1328-break-a-palindrome](https://github.com/SagunPatro/leetcode_probs/tree/master/1328-break-a-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SagunPatro/leetcode_probs/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/SagunPatro/leetcode_probs/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SagunPatro/leetcode_probs/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SagunPatro/leetcode_probs/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/SagunPatro/leetcode_probs/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/SagunPatro/leetcode_probs/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SagunPatro/leetcode_probs/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/SagunPatro/leetcode_probs/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
