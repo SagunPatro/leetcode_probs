@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SagunPatro/leetcode_probs/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SagunPatro/leetcode_probs/tree/master/0295-find-median-from-data-stream) |
+| [0743-network-delay-time](https://github.com/SagunPatro/leetcode_probs/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/SagunPatro/leetcode_probs/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SagunPatro/leetcode_probs/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SagunPatro/leetcode_probs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SagunPatro/leetcode_probs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SagunPatro/leetcode_probs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SagunPatro/leetcode_probs/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SagunPatro/leetcode_probs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SagunPatro/leetcode_probs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SagunPatro/leetcode_probs/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/SagunPatro/leetcode_probs/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SagunPatro/leetcode_probs/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/SagunPatro/leetcode_probs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SagunPatro/leetcode_probs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SagunPatro/leetcode_probs/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -362,12 +366,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SagunPatro/leetcode_probs/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SagunPatro/leetcode_probs/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/SagunPatro/leetcode_probs/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SagunPatro/leetcode_probs/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SagunPatro/leetcode_probs/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SagunPatro/leetcode_probs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SagunPatro/leetcode_probs/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SagunPatro/leetcode_probs/tree/master/1976-number-of-ways-to-arrive-at-destination) |
